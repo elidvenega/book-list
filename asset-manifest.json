@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elidvenega/book-list/static/css/main.efc30b31.css",
+    "main.js": "/elidvenega/book-list/static/js/main.9c1872c6.js",
+    "static/js/787.c7dce9b0.chunk.js": "/elidvenega/book-list/static/js/787.c7dce9b0.chunk.js",
+    "index.html": "/elidvenega/book-list/index.html",
+    "main.efc30b31.css.map": "/elidvenega/book-list/static/css/main.efc30b31.css.map",
+    "main.9c1872c6.js.map": "/elidvenega/book-list/static/js/main.9c1872c6.js.map",
+    "787.c7dce9b0.chunk.js.map": "/elidvenega/book-list/static/js/787.c7dce9b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc30b31.css",
+    "static/js/main.9c1872c6.js"
+  ]
+}
